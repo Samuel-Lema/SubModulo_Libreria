@@ -4,3 +4,6 @@
 [submodule "Libreria"]
 	path = Libreria
 	url = https://github.com/Samuel-Lema/Libreria.git
+[submodule "Libreria_Javadoc"]
+	path = Libreria_Javadoc
+	url = https://github.com/dani661/DialogosLibCod.git
